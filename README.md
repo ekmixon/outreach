@@ -7,7 +7,7 @@
 This is an experimental site for the ITHAKA Outreach Team.
 
 #
-<param class="cards clamp">
+<param class="cards clamp-20">
 
 ##
 [**Not-for-profit with a mission**](/our-story)
