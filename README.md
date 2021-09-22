@@ -4,16 +4,16 @@
        
 # ITHAKA Outreach Team
 
-This site provides a set of themed essays about Kent, a county in South East England.  Kent has a rich history and provided inspiration for a number of writers and artists.
+This is an experimental site for the ITHAKA Outreach Team.
 
 # {.cards}
 
 ##
-[**Topic 1**](/topic1)
+[**Not-for-profit with a mission**](/our-story)
 
 ![](https://picsum.photos/400/400)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Our Story... Where we’ve been, where we’re going...
 
 ##
 [**Topic 2**](/topic2)
