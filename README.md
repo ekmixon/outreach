@@ -11,7 +11,7 @@ This is an experimental site for the ITHAKA Outreach Team.
 ##
 [**Not-for-profit with a mission**](/our-story)
 
-![](https://picsum.photos/400/400)
+![](/images/our-story.jpg)
 
 Our Story... Where we’ve been, where we’re going...
 
