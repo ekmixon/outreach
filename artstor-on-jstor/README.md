@@ -1,6 +1,6 @@
 <param ve-config title="Artstor on JSTOR" banner="https://picsum.photos/id/857/1000/400" layout="vertical">
 
-<param ve-iframe src="https://www.jstor.org/action/doImageSearch">
+<param ve-iframe src="https://www.jstor.org/action/doImageSearch/">
 
 # Artstor images now on JSTOR
 
