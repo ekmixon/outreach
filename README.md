@@ -1,5 +1,6 @@
 <param ve-config title="ITHAKA Outreach Team"
-       banner="https://picsum.photos/id/857/1000/400">
+       banner="https://picsum.photos/id/857/1000/400"
+       main="default">
        
 # ITHAKA Outreach Team
 
