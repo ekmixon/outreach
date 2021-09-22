@@ -16,7 +16,7 @@ This is an experimental site for the ITHAKA Outreach Team.
 Our Story... Where we’ve been, where we’re going...
 
 ##
-[**Topic 2**](/topic2)
+[**Artstor on JSTOR**](/artstor-on-jstor)
 
 ![](https://picsum.photos/400/400)
 
