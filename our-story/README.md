@@ -1,6 +1,6 @@
 <param ve-config title="Our Story" banner="https://picsum.photos/id/857/1000/400" layout="vertical">
 
-<param ve-video id="6_NUI5WaJM" title="Explore the world’s knowledge, cultures, and ideas">
+<param ve-video id="r6_NUI5WaJM" title="Explore the world’s knowledge, cultures, and ideas">
 
 JSTOR is a digital library for the intellectually curious. We provide a platform for discovering and 
 connecting research, images, and primary sources. As a not-for-profit, we partner with libraries, 
